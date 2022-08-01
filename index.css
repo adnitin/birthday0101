@@ -1,0 +1,51 @@
+img {
+    max-width: 550px;
+    height: auto;
+    border: 10px groove rgb(255, 29, 13);
+    border-radius: 18px;
+    position: absolute;
+    top: 50%;
+    left: 35%;
+       
+}
+
+body {
+    background-color: rgb(160, 236, 67);
+}
+
+.text {
+    text-align: center;
+}
+
+#btn1{
+    background-color: aqua;
+    border-radius: 20px;
+    border-style:groove;
+    border: 5px solid rgb(220, 209, 4);
+    font-size: larger;
+    position: absolute;
+    left: 100px;
+    top: 150px;
+    
+}
+#btn2{
+    background-color: aqua;
+    border-radius: 20px;
+    border-style:groove;
+    border: 5px solid rgb(220, 209, 4);
+    position: absolute;
+    right: 100px;
+    top: 150px;
+    font-size: larger;
+}
+
+
+
+
+.center-div {
+    min-width: 50vw;
+    height: 40vh;
+    color: black;
+    text-shadow: 0 0 2rem rgb(0, 0, 0, 0.5);
+    font-size: 35px;
+}
